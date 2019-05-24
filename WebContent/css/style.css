@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Roboto:300,400&display=swap');
+	
+* {
+	font-family: "Roboto";
+	font-weight: 300;
+}
+
+h1 {
+	font-family: "Lora";
+	font-weight: bold;
+}
